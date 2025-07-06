@@ -1,6 +1,6 @@
 # CS 336: Language Modeling from Scratch
 [![GitHub Repo](https://img.shields.io/badge/LLM%20at%20Stanford-blueviolet?logo=github&style=flat-square)](https://github.com/hgnzheng/stanford-cs336/tree/main)
-![GitHub last commit](https://img.shields.io/github/last-commit/hgnzheng/CS230_Stanford?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/hgnzheng/stanford-cs336?style=flat-square)
 
 [<img src="https://github.com/hgnzheng/CS230_Stanford/blob/main/stanford_logo.png" width="200"/>](https://www.stanford.edu/)
 
